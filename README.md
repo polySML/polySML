@@ -16,7 +16,7 @@ This model provides the prediction for three critical performance indexes accoun
 
 1. Input correct **SMILES**  for addictive in polymer solution (SMILES can be queried from Pubchem https://pubchem.ncbi.nlm.nih.gov/ ).
 
-   ![image-20200710230307579](readme.assets/image-20200710230307579.png)
+   ![image-20200710230307579](./imgs/image-20200710230307579.png)
 
 2. Parameters for **composition, fabrication** and **test condition**.
 
@@ -90,7 +90,7 @@ Features used for  prediction models are listed below:
 | **5**  | p_Disp        |          | Hansen solubility parameter (Dispersion force for monomer in polymer) |
 | **6**  | RED_S         |          | The relative energy difference between base polymer and solvent |
 | **7**  | RED_NS        |          | The relative energy difference between base polymer and non-solvent |
-| **8**  | Bp            | ^o^C     | Boiling point for solvent and non-solvent                    |
+| **8**  | Bp            | ^oC     | Boiling point for solvent and non-solvent                    |
 | **9**  | Vp            | mmHg     | The saturated vapor pressure at 25oC for solvent and non-solvent |
 | **10** | HDT           | ^o^C     | Heat Deflection Temperature with loading of 1.8MPa           |
 | **11** | coag_T        | ^o^C     | The temperature of coagulation bath                          |
