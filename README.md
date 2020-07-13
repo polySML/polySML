@@ -2,10 +2,6 @@
 
 This suite of standalone software is to predict mechanical, thermal, conductivity, filtration and separational etc. properties for variant polymer materials.
 
-
-
-[toc]
-
 ## 1 Requirements
 
 Win7/vista/win8/win10, 105M RAM, 400M storage
@@ -15,22 +11,19 @@ Win7/vista/win8/win10, 105M RAM, 400M storage
 This model provides the prediction for three critical performance indexes accounting micro-/ultra-/nano-filtration membranes and the evaluation of the overall membrane performance grade.
 
 1. Input correct **SMILES**  for addictive in polymer solution (SMILES can be queried from Pubchem https://pubchem.ncbi.nlm.nih.gov/ ).
-
-   ![image-20200710230307579](./imgs/composition.bmp)
-
 2. Parameters for **composition, fabrication** and **test condition**.
 
    ![image-20200710230313673](./imgs/composition.bmp)
 
    ![image-20200710230317425](./imgs/fabrication.bmp)
 
-   ![image-20200710230325122](./imgs/test.png)
+   ![image-20200710230325122](./imgs/test.bmp)
 
 3. Click **Submit** and check all the inputs correct.
 
 4. Click **GO** for predictions.
 
-   ![image-20200710230335645](./imgs/result.png)
+   ![image-20200710230335645](./imgs/result.bmp)
 
 5. Click **Save As** to save outputs.
 
