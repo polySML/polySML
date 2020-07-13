@@ -16,25 +16,25 @@ This model provides the prediction for three critical performance indexes accoun
 
 1. Input correct **SMILES**  for addictive in polymer solution (SMILES can be queried from Pubchem https://pubchem.ncbi.nlm.nih.gov/ ).
 
-   ![image-20200710230307579](./imgs/image-20200710230307579.png)
+   ![image-20200710230307579](./imgs/composition.bmp)
 
 2. Parameters for **composition, fabrication** and **test condition**.
 
-   ![image-20200710230313673](./imgs/image-20200710230313673.png)
+   ![image-20200710230313673](./imgs/composition.bmp)
 
-   ![image-20200710230317425](./imgs/image-20200710230317425.png)
+   ![image-20200710230317425](./imgs/fabrication.bmp)
 
-   ![image-20200710230325122](./imgs/image-20200710230325122.png)
+   ![image-20200710230325122](./imgs/test.png)
 
 3. Click **Submit** and check all the inputs correct.
 
 4. Click **GO** for predictions.
 
-   ![image-20200710230335645](./imgs/image-20200710230335645.png)
+   ![image-20200710230335645](./imgs/result.png)
 
 5. Click **Save As** to save outputs.
 
-   ![image-20200710230341904](./imgs/image-20200710230341904.png)
+   ![image-20200710230341904](./imgs/save.bmp)
 
    
 
