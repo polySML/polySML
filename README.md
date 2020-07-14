@@ -2,15 +2,16 @@
 
 This suite of standalone software is to predict mechanical, thermal, conductivity, filtration and separational etc. properties for variant polymer materials.
 
-## 1 Requirements
+## Requirements
 
 Win7/vista/win8/win10, 105M RAM, 400M storage
 
-## 2 Usage
+## Usage
 
 This model provides the prediction for three critical performance indexes accounting micro-/ultra-/nano-filtration membranes and the evaluation of the overall membrane performance grade.
 
 1. Input correct **SMILES**  for addictive in polymer solution (SMILES can be queried from Pubchem https://pubchem.ncbi.nlm.nih.gov/ ).
+   ![image-20200710230313673](./imgs/smile.bmp)
 2. Parameters for **composition, fabrication** and **test condition**.
 
    ![image-20200710230313673](./imgs/composition.bmp)
@@ -31,11 +32,11 @@ This model provides the prediction for three critical performance indexes accoun
 
    
 
-## 3 Predictor: WFM_poly
+## Predictor: WFM_poly
 
 This model provides the prediction for three critical performance indexes accounting micro-/ultra-/nano-filtration membranes and the evaluation of the overall membrane performance grade.
 
-### 3.1 Regression models
+### Regression models
 
 #### Permeability(Lp)
 
@@ -66,7 +67,7 @@ $$
 T_r=(2×Lp×1/S_0)/(Lp+1/S_0 )
 $$
 
-### 3.2 Classification models
+### Classification models
 
 According to the "trade-off curve", we got four curves which can divide the macromolecules and salts data points into 50:50 and 20:80. The output result is "Y" means that the performance of the membrane is above the trade-off curve, on the contrary, the result is "N".
 
@@ -100,11 +101,11 @@ Features used for  prediction models are listed below:
 
 
 
-## 4 License
+## License
 
 The copyright for this software suite is owe to the authors, academic free for current version and commercial usages please contact the corresponding author yunqi@ciac.ac.cn.
 
-## 5 References
+## References
 
 User are encouraged to cite the following references for special predictors.
 
@@ -120,15 +121,15 @@ User are encouraged to cite the following references for special predictors.
    201912 version v0, construct the UI and common block. WFM_poly model was integrated.
    202003 version v1£¬predictor about polymer materials for water filtration membranes(WFM_poly) was integrated.
 
-## 6 Limitation
+## Limitation
 
 Current models mainly focus on the types of polymers, additions, solvents reported. For novel compounds, chemical structures, predictions are made based on knowledge, confidence needs validation in blind-test. We are not guarantee the prediction is fully accurate but guidelines are possible.
 
-## 7 Bug report and suggestions
+## Bug report and suggestions
 
 Please contact either lyliu@ciac.ac.cn or yunqi@ciac.ac.cn for bugs or suggestions.
 
-## 8 About us
+## About us
 
 We are a research group didicate in structure and machine learning study on polymer materials. We are welcoming suggestions and collaborations. Contact Prof. Yunqi Li for further information.
 
