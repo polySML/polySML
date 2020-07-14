@@ -41,7 +41,9 @@ This model provides the prediction for three critical performance indexes accoun
 #### Permeability(Lp)
 
 The permeability of membrane is defined as:
+$$
 Lp = J_{v}/(\Delta P \times p_{0})
+$$
 
 Where J~v~ is the volumetric filtrate flux (m/s), ΔP is the transmembrane pressure (Pa), p~0~ is the unit permeability coefficient (1 m·s^-1^ Pa^-1^)
 
