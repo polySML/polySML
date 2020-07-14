@@ -45,7 +45,7 @@ $$
 Lp = J_{v}/(\Delta P \times p_{0})
 $$
 
-Where J~v~ is the volumetric filtrate flux (m/s), ΔP is the transmembrane pressure (Pa), p~0~ is the unit permeability coefficient (1 m·s^-1^ Pa^-1^)
+Where $J_{v}$ is the volumetric filtrate flux (m/s), ΔP is the transmembrane pressure (Pa), $p_{0}$ is the unit permeability coefficient (1 $ms^{-1}Pa^{-1}$)
 
 
 
@@ -56,7 +56,7 @@ $$
 1/S_0=1/(1-R)=C_f/C_p
 $$
 
-Where R is the rejection ratio (%), C~p~ and C~f~ are the concentrations of substances in the permeation and feed flux (wt%).
+Where R is the rejection ratio (%), $C_{p}$ and $C_{f}$ are the concentrations of substances in the permeation and feed flux (wt%).
 
 
 
@@ -84,11 +84,11 @@ Features used for  prediction models are listed below:
 | **5**  | p_Disp        |          | Hansen solubility parameter (Dispersion force for monomer in polymer) |
 | **6**  | RED_S         |          | The relative energy difference between base polymer and solvent |
 | **7**  | RED_NS        |          | The relative energy difference between base polymer and non-solvent |
-| **8**  | Bp            | ^oC     | Boiling point for solvent and non-solvent                    |
+| **8**  | Bp            | $^{o}C$  | Boiling point for solvent and non-solvent                    |
 | **9**  | Vp            | mmHg     | The saturated vapor pressure at 25oC for solvent and non-solvent |
-| **10** | HDT           | ^o^C     | Heat Deflection Temperature with loading of 1.8MPa           |
-| **11** | coag_T        | ^o^C     | The temperature of coagulation bath                          |
-| **12** | pre_T         | ^o^C     | The temperature during membrane formation                    |
+| **10** | HDT           | $^{o}C$  | Heat Deflection Temperature with loading of 1.8MPa           |
+| **11** | coag_T        | $^{o}C$  | The temperature of coagulation bath                          |
+| **12** | pre_T         | $^{o}C$  | The temperature during membrane formation                    |
 | **13** | exposed.time  | s        | The exposed time before immersing the casting solution into the non-solvent |
 | **14** | wet_mem_thick | μm       | The thickness of solution on the substrate controlled by the scraper |
 | **15** | flux_P        | kPa      | Transmembrane pressure in performance measurement            |
@@ -97,7 +97,7 @@ Features used for  prediction models are listed below:
 | **18** | rej_charge    | C        | The charge of separation substance                           |
 | **19** | rej_r         | nm       | The radius of  rejection substance                           |
 | **20** | porosity      | %        | Volume fraction of water accessible voids in membrane        |
-| **21** | CA            | ^o^      | Water static contact angle on membrane  surface              |
+| **21** | CA            | $^{o}$   | Water static contact angle on membrane  surface              |
 
 
 
