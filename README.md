@@ -49,7 +49,7 @@ Where $J_{v}$ is the volumetric filtrate flux (m/s), ΔP is the transmembrane pr
 
 
 
-#### Selectivity(1/S~0~)
+#### Selectivity($1/S_{0}$)
 
 The selectivity of membrane is defined as:
 $$
