@@ -1,6 +1,7 @@
 ﻿# polySML: structure & machine learning for polymer materials
 
 This suite of standalone software is to predict mechanical, thermal, conductivity, filtration and separational etc. properties for variant polymer materials.
+Download Url: https://github.com/polySML/polySML/releases/download/v0.0.1/PolySML.zip
 
 ## Requirements
 
