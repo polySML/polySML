@@ -5,7 +5,8 @@ Download Url: https://github.com/polySML/polySML/releases/download/v0.0.1/PolySM
 
 ## Requirements
 
-Win7/vista/win8/win10, 105M RAM, 400M storage
+Win7/vista/win8/win10 64-bit operating system, 105M RAM, 400M storage
+It takes a while to load.
 
 ## Usage
 
