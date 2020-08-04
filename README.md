@@ -8,7 +8,7 @@ Win7/vista/win8/win10 64-bit operating system, 105M RAM, 400M storage
 
 Download Url: https://github.com/polySML/polySML/releases/download/v0.0.1/PolySML.zip
 
-It takes a while to load.
+It takes time to load, please be patient.
 
 ## Usage
 
