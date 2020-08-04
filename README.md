@@ -113,7 +113,7 @@ The copyright for this software suite is owe to the authors, academic free for c
 
 User are encouraged to cite the following references for special predictors.
 
-1. Liu T, Liu L, Cui F, Ding F, & Li Y Predict the performance of polyvinylidene fluoride, polyethersulfone and polysulfone micro/ultra/nano-filtration membranes, 2020, submitted.
+1. Liu T, Liu L, Cui F, Ding F, & Li Y Predict the performance of polyvinylidene fluoride, polyethersulfone and polysulfone filtration membranes using machine learning, 2020, submitted.
 
 2. Liu L, Chen W, Liu T, Kong X, Zheng J, & Li Y Rational design of hydrocarbon-based sulfonated copolymers for proton exchange membranes J. Mater. Chem. A, 2019 7:11847-11857.
 
